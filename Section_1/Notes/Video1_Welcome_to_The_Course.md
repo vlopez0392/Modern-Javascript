@@ -10,11 +10,11 @@
         <br>
         <li align = "justify"><strong>Course content overview:</strong>
             <ul>
-                <li>DOM manipulations and events</li>
-                <li>Asynchronous JS and HTTP</li>
-                <li>Object-Oriented Programming and Prototypes</li>
-                <li>Execution context, Call stack, the event loop</li>
-                <li>Unit testing with Jest</li>
+                <li>DOM manipulations and events.</li>
+                <li>Asynchronous JS and HTTP.</li>
+                <li>Object-Oriented Programming and Prototypes.</li>
+                <li>Execution context, Call stack, the event loop.</li>
+                <li>Unit testing with Jest.</li>
             </ul>
         </li>
         <br>
@@ -22,7 +22,7 @@
         <br>
         <li align = "justify"><strong>Tips:</strong> 
             <ul>
-                <li>Do things on your own and try to do your best in the assigned challenges</li>
+                <li>Do things on your own and try to do your best in the assigned challenges.</li>
                 <li>Use this course as a source of documentation. Come back to the sections you need and watch the specific videos in the topic you want to refresh.</li>
             </ul>
         </li>

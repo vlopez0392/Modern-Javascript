@@ -46,7 +46,7 @@ Intepreted? This means it is executed line by line instead of being compiled int
     Process of modifying or transforming data can be done with JS since JS is a fully featured language with DS such as arrays which allows us to sort, filter and aggregate data. Many powerful array methods such as map, filter and reduce.
     </li>
     <br>
-    <li><strong>Storing data: </strong> We can store data in the client or the browser using local storage, session stoage and cookies.
+    <li><strong>Storing data: </strong> We can store data in the client or the browser using local storage, session storage and cookies.
     </li>
     <br>
     <li><strong>Creating APIs: </strong> Me may also use JS in the server side with NodeJS as well as Deno. 

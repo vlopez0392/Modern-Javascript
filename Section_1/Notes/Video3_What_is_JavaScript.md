@@ -55,3 +55,11 @@ Intepreted? This means it is executed line by line instead of being compiled int
     In addition to consume APIs from the front-end, we can create APIs to interact with databases on the back-end. We can use frameworks such as Express to create backend APIs.
     </li>
 </ol>
+<h3>Why should you learn JavaScript?</h3>
+<ul align = "justify">
+    <li><strong>Popularity: </strong> One of the most widely used languages. Many job opportunities. You may develop web applications, browser-based games, websites, server-side APIs.
+    </li>
+    <br>
+    <li><strong>Versatile: </strong> 
+    </li>
+</ul>

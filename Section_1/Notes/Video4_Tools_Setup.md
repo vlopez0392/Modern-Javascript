@@ -1,4 +1,4 @@
-<h2>Video 4: Tools Setup/h2>
+<h2>Video 4: Tools Setup</h2>
 
 ---
 

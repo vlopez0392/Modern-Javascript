@@ -12,7 +12,7 @@ console.error('error');
 console.warn('warning');
 console.table({name:'Vick',email:'vlopez@gmail.com'});
 
-//Grouping logs
+//Grouping l`ogs
 console.group('simple');
 console.error('1');
 console.warn('2');

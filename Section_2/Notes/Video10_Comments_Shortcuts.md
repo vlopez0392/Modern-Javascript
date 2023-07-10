@@ -39,5 +39,17 @@ Adding a multi-line comment:
         <li>⌘ + right/left : Puts cursor in the beginning or end of the line</li>
         <li>⌥  + right/left : Puts cursor in the beginning or end of the next word</li>
         <li>Shift ⇧ + ⌥  + right/left : Highlights faster than only using shift</li>
-    </ul>
+        <li>Shift ⇧ +  ⌘ + right/left : Highlights towards the end of the line in the direction from the current position of the cursor.</li>
+        <li>⌥  + up/down : Moves a line of code either up or down one line</li>
+        <li>Shift ⇧ + ⌥ + up/down : Duplicates a line of code</li>
+        <li>Shift ⇧ + cursor highlight : Highlights every instance of the selected code</li>
+        <li>⌘ + D : Selects every instance of (one by one) the selected code for editing</li>
+        <li>⌘ + Shift ⇧ + L : Selects every instance (Automatically ALL) of the selected code for editing</li>
+        <li>⌥ + Click : Places cursor in multiple lines to edit</li>
+        <li>⌘ + Shift ⇧ + O : Search for a file</li>
+        <li>⌘ + ⌥ + F : Search for all instances of code </li>
+        <li>⌘ + Shift ⇧ + F : Search for all instances of code in the sidebar</li>
+        <li>⌘ + B: Toggle the sidebar</li>
+        <li>⌘ + ~: Toggle the command line</li>
+    </ul> 
 </p>

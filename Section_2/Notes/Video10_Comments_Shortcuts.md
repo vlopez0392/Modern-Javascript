@@ -50,6 +50,6 @@ Adding a multi-line comment:
         <li>⌘ + ⌥ + F : Search for all instances of code </li>
         <li>⌘ + Shift ⇧ + F : Search for all instances of code in the sidebar</li>
         <li>⌘ + B: Toggle the sidebar</li>
-        <li>⌘ + ~: Toggle the command line</li>
+        <li>⌘ + ~: Toggle the command-line</li>
     </ul> 
 </p>

@@ -19,3 +19,25 @@ You may also use comments to specify a TODO list. In JS we add comments as follo
 //This is a single line comment
 //You must add the double slash to comment something
 ```
+
+<p align = "justify">
+Adding a multi-line comment:
+</p>
+
+```
+/*This is a multiline comment
+  Everything between the /* and */ will be commented  
+*/
+```
+
+<h3>List of VScode shortcuts</h3>
+<p align = "justify">
+    <ul>
+        <li>⌘ + / : Toggle comment/uncomment a line</li>
+        <li>Shift ⇧ + up/down key : Higlight multiple lines of code in the chosen direction</li>
+        <li>Shift ⇧ + right/left : Higlight in the chosen direction</li>
+        <li>⌘ + right/left : Puts cursor in the beginning or end of the line</li>
+        <li>⌥  + right/left : Puts cursor in the beginning or end of the next word</li>
+        <li>Shift ⇧ + ⌥  + right/left : Highlights faster than only using shift</li>
+    </ul>
+</p>

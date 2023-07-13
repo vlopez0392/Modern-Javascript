@@ -51,9 +51,11 @@ Template literals make use of backticks ` ` and were introduced in ES6. Anything
     <li>
     <strong>String splicing:</strong>: The splice() method is similar to the substring method, however the splice() method allows negative indexes. You can use slice and substring interchangeably in many situations.
     </li>
+    <br>
     <li>
     <strong>Other methods</strong>: The trim() method gets rid of the whitespace in the string. The replace(a,b) method replaces the first argument in the string with the second argument. The includes(str) returns true if the str is found as a substring. 
     </li>
+    <br>
     <li>
     <strong>Split</strong>: Splits the string on the separator in the argument ("-","_" or whitespace among others). Returns an array with all the strings splitted by the separator. If an empty string is input as an argument, an array of characters corresponding to the string is returned.
     </li>

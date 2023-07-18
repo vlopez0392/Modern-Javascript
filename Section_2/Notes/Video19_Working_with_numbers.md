@@ -26,10 +26,11 @@ This explicit declaration is not often used as Javascript will create a wrapper 
     </li>
     <li><strong>valueOf</strong>: Returns the value of the number object
     </li>
-<ul>
+</ul>
 
 <h3>Number properties</h3>
 <ul align = "justify">
-    <li>Number.MAX_VALUE</li>: Returns the maximum possible number we can assign to a number variable.
-    <li>Number.MIN_VALUE</li>:Returns the minimum possible number we can assign to a number variable.
+    <li>Number.MAX_VALUE: Returns the maximum possible number we can assign to a number variable.</li>
+    <li>Number.MIN_VALUE: Returns the minimum possible number we can assign to a number variable.
+    </li>
 </ul>

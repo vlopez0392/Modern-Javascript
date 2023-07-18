@@ -8,9 +8,10 @@ sumOutput = x+y;
 differenceOutput = x-y;
 productOutput = x*y;
 quotientOutput = x/y;
+moduloOutput   = x%y;
 
 //Output to console
 inputVariables = `x = ${x} and y = ${y}`;
-output = `\nSum of x and y: ${sumOutput} \nDifference of x and y: ${differenceOutput} \nProduct of x and y: ${productOutput} \nquotientOutput = ${quotientOutput}`;
+output = `\n${x} + ${y} = ${sumOutput} \n${x} - ${y} = ${differenceOutput} \n${x} * ${y} = ${productOutput} \n${x} / ${y} = = ${quotientOutput} \n${x} % ${y} =${moduloOutput}`;
 console.log('--------Number challenge:--------');
 console.log(inputVariables, output);

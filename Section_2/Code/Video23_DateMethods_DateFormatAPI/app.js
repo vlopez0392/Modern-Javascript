@@ -33,5 +33,4 @@ x = Intl.DateTimeFormat('default', {month:'long'}).format(d);
 
 //Shorthand form to use the API 
 x = d.toLocaleDateString('default',{month:'short'});
-
 console.log(x);

@@ -19,7 +19,7 @@ This may be required when someone submits a form and the number is input as a st
 These are shown below:
 </p>
 
-```
+```Javascript
 let amount = '100';
 
 //Change string to number
@@ -84,7 +84,7 @@ There are five different types of operations that can return NaN:
     <li>Operations with strings that do not involve the + operator</li>
 </ul>
 
-```
+```Javascript
 //NaN resulting operations 
 console.log(parseInt('hello'));
 console.log(Math.sqrt(-1));

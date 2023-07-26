@@ -42,7 +42,7 @@ There are several ways to convert a string to a number:
 These are shown below:
 </p>
 
-```
+```Javascript
 let amount = 100;
 
 //amount = amount.toString();

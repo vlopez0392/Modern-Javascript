@@ -35,7 +35,7 @@ The concatenate operator is the + sign. Then, you can think of the + sign as hav
     <li>Exponentiation : a **= b</li>
 </ul>
 <p align = "justify">
-Note that a+=b is equivalent to a = a + b. This applies to all the assingment operators that follow this pattern.
+Note that a+=b is equivalent to a = a + b. This applies to all the assignment operators that follow this pattern.
 </p>
 <h3>Assignment operators</h3>
 <ul align = "justify">

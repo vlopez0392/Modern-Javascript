@@ -16,9 +16,6 @@ Destructure the title from the first book and rename the variable to `firstBook`
 
 Turn the library object into a JSON string. There is a specific function that we looked at in the last section that we can use to do this.
 
-<details>
-  <summary>Click For Solution</summary>
-
 ### Step 1 Solution
 
 ```js
@@ -61,7 +58,7 @@ library[1].status.read = true;
 library[3].status.read = true;
 ```
 
-### Step 4 Solution
+### Step 3 Solution
 
 ```js
 const { title: firstBook } = library[0];
@@ -74,5 +71,3 @@ console.log(firstBook);
 const libraryJSON = JSON.stringify(library);
 console.log(libraryJSON);
 ```
-
-</details>

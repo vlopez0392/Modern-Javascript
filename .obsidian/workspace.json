@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section_4/Notes/Video34_Section_Intro.md",
+                "file": "Section_4/Notes/Video35_Function_Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section_4/Notes/Video34_Section_Intro.md",
+                "file": "Section_4/Notes/Video35_Function_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section_4/Notes/Video34_Section_Intro.md",
+                "file": "Section_4/Notes/Video35_Function_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section_4/Notes/Video34_Section_Intro.md"
+                "file": "Section_4/Notes/Video35_Function_Basics.md"
               }
             }
           }
@@ -149,10 +149,15 @@
   },
   "active": "7a8ce2ca0a94aee6",
   "lastOpenFiles": [
-    "Section_3/Notes/Video24_Section_Intro.md",
+    "Section_4/Code/Video35_Function_Basics/index.html",
+    "Section_4/Code/Video35_Function_Basics/app.js",
+    "Section_4/Code/Video35_Function_Basics",
+    "Section_4/Code/Video35_Function_basics",
+    "Section_4/Code",
     "Section_4/Notes/Video34_Section_Intro.md",
+    "Section_4/Notes/Video35_Function_Basics.md",
+    "Section_3/Notes/Video24_Section_Intro.md",
     "Section_3/Notes/Video28_array-challenges.md",
-    "Section_4/Notes/Untitled.md",
     "Section_4/Notes",
     "Section_3/Notes/Video33_Object_Challenge.md"
   ]

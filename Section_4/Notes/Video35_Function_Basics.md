@@ -24,7 +24,7 @@ function add(num1,num2){
 add(1,2);
 ```
 
-<p align = "justify">Usually functions return some value. This value is returned with some purpose and can for instance, be stored in a variable. For instance, the following function returns the subtraction of two numbers.</p>
+<p align = "justify">Usually functions return some value. This value is returned with some purpose and can for instance, be stored in a variable. For instance, the following function returns the subtraction of two numbers. Note that we can use <i>num1</i>and <i>num2</i> as parameter names since their scope is limited to the function. This wouldn't be possible in the global scope since there would be a naming conflict.</p>
 
 ```js
 //A function with return

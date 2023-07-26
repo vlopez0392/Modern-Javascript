@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48cc8c87e3f293fb",
+        "id": "3e09ba60cdae39e6",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8ce2ca0a94aee6",
+            "id": "2ec12e093f1d0268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section_4/Notes/Video36_More_on_Params_Args.md",
+                "file": "Section_4/Notes/Video37_Global_Function_Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "38bfa6459521636e",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section_4/Notes/Video36_More_on_Params_Args.md",
+                "file": "Section_4/Notes/Video37_Global_Function_Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section_4/Notes/Video36_More_on_Params_Args.md",
+                "file": "Section_4/Notes/Video37_Global_Function_Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section_4/Notes/Video36_More_on_Params_Args.md"
+                "file": "Section_4/Notes/Video37_Global_Function_Scope.md"
               }
             }
           }
@@ -148,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8ce2ca0a94aee6",
+  "active": "2ec12e093f1d0268",
   "lastOpenFiles": [
+    "Section_4/Notes/Video36_More_on_Params_Args.md",
     "Section_4/Code/Video37_Global_Function_Scope/index.html",
     "Section_4/Code/Video37_Global_Function_Scope/app.js",
     "Section_4/Code/Video37_Global_Function_Scope/Video36_More_on_Params_Args/index.html",
@@ -161,12 +160,10 @@
     "Section_4/Notes/Video37_Global_Function_Scope",
     "Section_4/Code/Video36_More_on_Params_Args/sayHello.js",
     "Section_4/Notes/Video35_Function_Basics.md",
-    "Section_4/Notes/Video36_More_on_Params_Args.md",
     "Video36_More_on_Params_Args.md",
     "Video35_Function_Basics.md",
     "Section_4/Code/Video36_More_on_Params_Args/index.html",
     "Section_4/Code/Video36_More_on_Params_Args/app.js",
-    "Section_4/Code/Video36_More_on_Params_Args",
     "Section_4/Notes/Video34_Section_Intro.md",
     "Section_3/Notes/Video24_Section_Intro.md",
     "Section_3/Notes/Video28_array-challenges.md",

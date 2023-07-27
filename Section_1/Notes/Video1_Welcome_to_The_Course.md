@@ -2,11 +2,10 @@
 
 ---
 
-<p align = "justify">
-    <ul>
+ <ul>
         <li align = "justify"><strong>Length of the course:</strong> 37+ hours </li>
         <br>
-        <li align = "justify"><strong>Expectations of the course:</strong>The course takes you from what is variable to creating a full stack application with NodeJS backend and a frontend that uses webpack tooling along with modules, UI components, API service, etc.</li>
+        <li align = "justify"><strong>Expectations of the course:</strong> The course takes you from what is variable to creating a full stack application with NodeJS backend and a frontend that uses webpack tooling along with modules, UI components, API service, etc.</li>
         <br>
         <li align = "justify"><strong>Course content overview:</strong>
             <ul>
@@ -28,5 +27,4 @@
         </li>
         <br>
     </ul>
-</p>
 

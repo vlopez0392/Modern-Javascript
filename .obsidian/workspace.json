@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e09ba60cdae39e6",
+        "id": "195c1dba5fc82ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec12e093f1d0268",
+            "id": "76bad837e94892a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section_4/Notes/Video37_Global_Function_Scope.md",
+                "file": "Section_4/Notes/Video35_Function_Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section_4/Notes/Video37_Global_Function_Scope.md",
+                "file": "Section_4/Notes/Video35_Function_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section_4/Notes/Video37_Global_Function_Scope.md",
+                "file": "Section_4/Notes/Video35_Function_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section_4/Notes/Video37_Global_Function_Scope.md"
+                "file": "Section_4/Notes/Video35_Function_Basics.md"
               }
             }
           }
@@ -146,27 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ec12e093f1d0268",
+  "active": "76bad837e94892a3",
   "lastOpenFiles": [
+    "Section_4/Notes/Video34_Section_Intro.md",
+    "Section_4/Notes/Video35_Function_Basics.md",
+    "Section_3/Notes/Video25_Creating_arrays.md",
+    "Section_3/Notes/Video28_array-challenges.md",
+    "Section_2/Notes/Video12_Data_Types.md",
+    "Section_2/Notes/Video11_Variable_Declarations.md",
+    "Section_2/Notes/Video10_Comments_Shortcuts.md",
+    "Section_2/Notes/Video09_The_Console.md",
+    "Section_2/Notes/Video08_The_Sandbox_Files.md",
+    "Section_2/Notes/Video07_Section_Intro.md",
+    "Section_1/README.md",
+    "Section_1/Notes/Video5_RunningJS_in_the_browser.md",
+    "Section_1/Notes/Video4_Tools_Setup.md",
+    "Section_1/Notes/Video3_What_is_JavaScript.md",
+    "Section_1/Notes/Video2_Course_Outline.md",
+    "Section_1/Notes/Video1_Welcome_to_The_Course.md",
+    "Section_4/Notes/Video38_Block_Scope.md",
+    "Section_4/Notes/Video37_Global_Function_Scope.md",
     "Section_4/Notes/Video36_More_on_Params_Args.md",
+    "Section_4/Code/Video38_Block_Scope/index.html",
+    "Section_4/Code/Video38_Block_Scope/app.js",
+    "Section_4/Code/Video38_Block_Scope",
+    "Video38_Block_Scope.md",
+    "Video38_Block_Scope",
     "Section_4/Code/Video37_Global_Function_Scope/index.html",
     "Section_4/Code/Video37_Global_Function_Scope/app.js",
     "Section_4/Code/Video37_Global_Function_Scope/Video36_More_on_Params_Args/index.html",
     "Section_4/Code/Video37_Global_Function_Scope/Video36_More_on_Params_Args/app.js",
     "Section_4/Code/Video37_Global_Function_Scope/Video36_More_on_Params_Args",
     "Section_4/Code/Video37_Global_Function_Scope",
-    "Section_4/Notes/Video37_Global_Function_Scope.md",
     "Section_4/Notes/Video37_Global_Function_Scope.MD",
-    "Section_4/Notes/Video37_Global_Function_Scope",
-    "Section_4/Code/Video36_More_on_Params_Args/sayHello.js",
-    "Section_4/Notes/Video35_Function_Basics.md",
     "Video36_More_on_Params_Args.md",
     "Video35_Function_Basics.md",
-    "Section_4/Code/Video36_More_on_Params_Args/index.html",
-    "Section_4/Code/Video36_More_on_Params_Args/app.js",
-    "Section_4/Notes/Video34_Section_Intro.md",
     "Section_3/Notes/Video24_Section_Intro.md",
-    "Section_3/Notes/Video28_array-challenges.md",
     "Section_3/Notes/Video33_Object_Challenge.md"
   ]
 }

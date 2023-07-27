@@ -15,7 +15,7 @@ Comments are especially important when you are working in a project with a team 
 You may also use comments to specify a TODO list. In JS we add comments as follows:
 </p>
 
-```
+```js
 //This is a single line comment
 //You must add the double slash to comment something
 ```
@@ -24,9 +24,9 @@ You may also use comments to specify a TODO list. In JS we add comments as follo
 Adding a multi-line comment:
 </p>
 
-```
+```js
 /*This is a multiline comment
-  Everything between the /* and */ will be commented  
+  Everything between the /* * / and will be commented  
 */
 ```
 

@@ -10,7 +10,7 @@
 We may write JavaScipt directly on an HTML file using the &lt;script> tag. Typically however, we won't write HTML in the browser since it is bad practice (This is called inline JS). What is good practice? We must write JS in a separate file with .js extension. We can do so by using the &lt;script> tag but with a src attribute with the path of our JS file. This is shown below:
 </p>
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

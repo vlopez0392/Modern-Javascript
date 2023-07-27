@@ -16,7 +16,6 @@ Intepreted? This means it is executed line by line instead of being compiled int
 <h3>What is JavaScript used for?</h3>
 <ol align = "justify">
     <li><strong>DOM manipulation:</strong> You can think of the DOM as a tree-like structure of nodes and everything on the page is a node. Every attribute, HTML tag and every piece of text is a node in the DOM. JS provides methods to dynamically change the content, style and structure of the elements in the DOM. For instance, we can:
-    <br>
         <ul>
             <li>Add or remove text from a heading or div</li>
             <li>Change an element's style like the font color</li>
@@ -55,6 +54,7 @@ Intepreted? This means it is executed line by line instead of being compiled int
     In addition to consume APIs from the front-end, we can create APIs to interact with databases on the back-end. We can use popular frameworks such as Express to create backend APIs.
     </li>
 </ol>
+
 <h3>Why should you learn JavaScript?</h3>
 <ul align = "justify">
     <li><strong>Popularity: </strong> One of the most widely used languages. Many job opportunities. You may develop web applications, browser-based games, websites, server-side APIs. Allows for colaboration with other developers.
@@ -62,6 +62,7 @@ Intepreted? This means it is executed line by line instead of being compiled int
     <br>
     <li><strong>Versatile: </strong> A full-stack language since its used in the back-end and front-end. Technologies such as React Native allow you to create mobile apps and other technologies such as Electron allow you to create Desktop applications such as VSCode as well as Postman which is the HTTP client we will use in this course.
     </li>
+    <br>
     <li><strong>Relatively easy to learn: </strong> Anyone with the desire and motivation can learn JS.
     </li>
     <li><strong>Large community: </strong> JS has a huge reach and many development tools are open-source such as npm (node package manager). There is no shortage of resources or tools when it comes to JS.

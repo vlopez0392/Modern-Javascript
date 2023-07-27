@@ -7,7 +7,7 @@
         <ul>
             <li>Text editor: Visual Studio Code is recommended</li>
             <li>Git: Required to push to a service for deployments.</li>
-            <li>NodeJS: Allows you to run JS outside of the browser. Can be used to run your JS backed.</li>
+            <li>NodeJS: Allows you to run JS outside of the browser. Can be used to run your JS backend.</li>
         </ul>
     </li>
     <br>

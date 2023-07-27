@@ -10,7 +10,7 @@ You will be using the console during your entire career as a web developer. You 
 In the console we can see all of our JS logs, errors and warnings. We can also type JS directly into the console. For instance, we can type:
 </p>
 
-```
+```js
 alert(1);
 ```
 
@@ -43,7 +43,7 @@ We log to the console with the console object. Objects are common in OOP-based l
 With JS, we use the log() method in the console object to output to the console. This is shown below:
 </p>
 
-```
+```js
 console.log("Hello World!");
 ```
 
@@ -51,7 +51,7 @@ console.log("Hello World!");
 We may log several types of data to the console such as Strings, Numbers and Booleans. We may log different data types simultaneously as shown below by separating each 
 </p>
 
-```
+```js
 console.log("Hello World!", 100, true);
 ```
 
@@ -59,7 +59,7 @@ console.log("Hello World!", 100, true);
 The above code snippets are not frequently used because most of the time we will be logging variables and results of functions. The code snippet shown below first creates a variable and outputs this variable to the console.
 </p>
 
-```
+```js
 let x = 200;
 console.log(x);
 ```

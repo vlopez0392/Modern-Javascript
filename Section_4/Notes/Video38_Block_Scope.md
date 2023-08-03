@@ -29,4 +29,15 @@ if(true){
 console.log(c);
 ```
 
-Finally, note that var is function scoped, so we cannot access variables declared with var inside functions.  
+<p align = "justify">Finally, note that var is function scoped, so we cannot access variables declared with var inside functions. For instance, the variable d in the function shown below will not be accessible outside the function. </p>
+
+```js
+function run(){
+	var d = 100;
+	console.log(d);
+}
+run();
+//console.log(d)
+```
+
+<p align = "justify">Note that variables declared with var in the global scope will be added to the window object. This behavior is not observed when declaring variables with let and const.</p>

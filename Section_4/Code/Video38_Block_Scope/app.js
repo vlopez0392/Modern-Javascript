@@ -17,3 +17,11 @@ if(true){
 	var c = 700; 
 }
 console.log(c);
+
+//var is function scoped
+function run(){
+	var d = 100;
+	console.log(d);
+}
+run();
+//console.log(d)

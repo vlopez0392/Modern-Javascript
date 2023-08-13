@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section_4/Notes/Video39_Nested_Scope.md",
+                "file": "Section_4/Notes/Video38_Block_Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section_4/Notes/Video39_Nested_Scope.md",
+                "file": "Section_4/Notes/Video38_Block_Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section_4/Notes/Video39_Nested_Scope.md",
+                "file": "Section_4/Notes/Video38_Block_Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section_4/Notes/Video39_Nested_Scope.md"
+                "file": "Section_4/Notes/Video38_Block_Scope.md"
               }
             }
           }
@@ -149,14 +149,20 @@
   },
   "active": "15e4b15fcf38044d",
   "lastOpenFiles": [
-    "Section_4/Notes/Video38_Block_Scope.md",
     "Section_4/Notes/Video39_Nested_Scope.md",
+    "Section_3/Notes/Video33_Object_Challenge.md",
+    "Section_3/Notes/Video28_array-challenges.md",
+    "Section_3/Notes/Video25_Creating_arrays.md",
+    "Section_3/Notes/Video24_Section_Intro.md",
     "Section_4/Notes/Video37_Global_Function_Scope.md",
+    "Section_4/Notes/Video38_Block_Scope.md",
     "Section_4/Notes/Video36_More_on_Params_Args.md",
     "Section_4/Notes/Video35_Function_Basics.md",
+    "Section_2/Notes/Video19_Working_with_numbers.md",
+    "Section_1/Notes/Video3_What_is_JavaScript.md",
+    "Section_1/Notes/Video2_Course_Outline.md",
+    "Section_1/Notes/Video1_Welcome_to_The_Course.md",
     "Section_4/Notes/Video34_Section_Intro.md",
-    "Section_3/Notes/Video25_Creating_arrays.md",
-    "Section_3/Notes/Video28_array-challenges.md",
     "Section_2/Notes/Video12_Data_Types.md",
     "Section_2/Notes/Video11_Variable_Declarations.md",
     "Section_2/Notes/Video10_Comments_Shortcuts.md",
@@ -166,9 +172,6 @@
     "Section_1/README.md",
     "Section_1/Notes/Video5_RunningJS_in_the_browser.md",
     "Section_1/Notes/Video4_Tools_Setup.md",
-    "Section_1/Notes/Video3_What_is_JavaScript.md",
-    "Section_1/Notes/Video2_Course_Outline.md",
-    "Section_1/Notes/Video1_Welcome_to_The_Course.md",
     "Section_4/Code/Video38_Block_Scope/index.html",
     "Section_4/Code/Video38_Block_Scope/app.js",
     "Section_4/Code/Video38_Block_Scope",
@@ -181,9 +184,6 @@
     "Section_4/Code/Video37_Global_Function_Scope/Video36_More_on_Params_Args",
     "Section_4/Code/Video37_Global_Function_Scope",
     "Section_4/Notes/Video37_Global_Function_Scope.MD",
-    "Video36_More_on_Params_Args.md",
-    "Video35_Function_Basics.md",
-    "Section_3/Notes/Video24_Section_Intro.md",
-    "Section_3/Notes/Video33_Object_Challenge.md"
+    "Video36_More_on_Params_Args.md"
   ]
 }

@@ -1,5 +1,6 @@
 <h2>Video 2: Course Outline</h2>
 
+
 ---
 
 <p align = "justify">

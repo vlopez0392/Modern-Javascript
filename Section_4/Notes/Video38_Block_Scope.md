@@ -29,7 +29,7 @@ if(true){
 console.log(c);
 ```
 
-<p align = "justify">Finally, note that var is function scoped, so we cannot access variables declared with var inside functions. For instance, the variable d in the function shown below will not be accessible outside the function. </p>
+<p align = "justify">Finally, note that var is still function scoped, so we cannot access variables declared with var inside functions. For instance, the variable d in the function shown below will not be accessible outside the function. </p>
 
 ```js
 function run(){

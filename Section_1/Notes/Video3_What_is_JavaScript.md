@@ -30,8 +30,7 @@ Intepreted? This means it is executed line by line instead of being compiled int
         </ul>
     This allows us to create very dynamic interfaces such as modals, dropdown, collapsible contents and so on.
     </li>
-    <br>
-    <br>
+    <br>    <br>
     <li><strong>Asynchronous Requests:</strong> One of the most powerful uses of JS. Used to interact with your backend servers (could be your own) or a public API such as google or youtube API. We can make HTTP requests to fetch data or submit data and this happens without needing to refresh pages.
     <br>
     <br>

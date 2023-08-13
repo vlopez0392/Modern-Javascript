@@ -12,7 +12,7 @@ function sayHello(){
 sayHello();
 ```
 
-<p align = "justify">The code within the curly braces will be executed when the function is called. When we declare the a function, we make use of parameters to pass data into the function. Then, when we call the function, we formally call those parameters arguments. Consider the following function declaration:</p>
+<p align = "justify">The code within the curly braces will be executed when the function is called. When we declare a function, we make use of parameters to pass data into the function. Then, when we call the function, we formally call those parameters arguments. Consider the following function declaration:</p>
 
 ```js
 //Declaring a function with parameters
@@ -24,7 +24,7 @@ function add(num1,num2){
 add(1,2);
 ```
 
-<p align = "justify">Usually functions return some value. This value is returned with some purpose and can for instance, be stored in a variable. For instance, the following function returns the subtraction of two numbers. Note that we can use <i>num1</i>and <i>num2</i> as parameter names since their scope is limited to the function. This wouldn't be possible in the global scope since there would be a naming conflict.</p>
+<p align = "justify">Usually functions return some value. This value is returned with some purpose and can for instance, be stored in a variable. For instance, the following function returns the subtraction of two numbers. Note that we can use <i>num1</i> and <i>num2</i> as parameter names once again since their scope is limited to the function. This wouldn't be possible in the global scope since there would be a naming conflict.</p>
 
 ```js
 //A function with return

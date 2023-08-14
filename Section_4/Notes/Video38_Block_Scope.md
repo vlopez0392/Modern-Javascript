@@ -1,5 +1,6 @@
 ## Block scope
 <p align = "justify">So far we have covered the global and function scopes. Now we are going to discuss block level scope and some of the differences between creating variables with let, const and var.</p>
+
 ```js
 const x = 100;
 if(true){
@@ -9,6 +10,7 @@ if(true){
 //console.log(x+y)
 ```
 <p align = "justify">Since the variable y has not been defined in the global scope, we cannot access it. Its scope is limited to the function scope. This behavior is also observed in the block scope when we try to access a variable outside the code block. Consider the following looping example:</p>
+
 ```js
 for(let i = 0 ; i <= 10 ; i++){
 	console.log(i);

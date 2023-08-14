@@ -1,5 +1,6 @@
 ## Declaration vs. Expression
 <p align = "justify"> We already know about function declarations:</p>
+
 ```js
 //Function declaration
 function addDollarSign(value){

@@ -1,6 +1,7 @@
 ## Nested scope
 
 <p align = "justify">Nested functions relate to closures (more on this later). For now, we can see how scope works with nested functions.</p>
+
 ```js
 function first(){
 	const x = 100; 
@@ -19,6 +20,7 @@ first(); //Outputs 300
 ```
 
 <p align = "justify"> From the child function we can access any variables in their parent functions. However, we cannot access child function variables from a parent scope. The above also applies to nested scopes with blocks. </p>
+
 ```js
 if(true){
 	const x = 100;

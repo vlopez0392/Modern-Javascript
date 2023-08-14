@@ -26,7 +26,6 @@ if(true){
 		const y = 200;
 		console.log(x+y);
 	}
-
 	//console.log(y) //Will output a ReferenceError
 }
 ```
